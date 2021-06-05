@@ -1,4 +1,4 @@
-#include "Calc.h"
+#include "alc.h"
 
 int Calc::add(int a, int b) {
 	return a+b;
